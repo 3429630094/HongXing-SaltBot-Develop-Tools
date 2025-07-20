@@ -1,1 +1,1 @@
-# Unpacking-related-to-the-international-version-of-Blue-Archive
+# 本仓库只作为机器人的开发套件，仅供个人使用
